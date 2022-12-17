@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vkCup</string>
+    <string name="continue_title">Продолжить</string>
+    <string name="later">Позже</string>
+    <string name="check_interested">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+    <string name="add">add</string>
+    <string name="divider">divider</string>
+</resources>
